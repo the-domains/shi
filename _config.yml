@@ -1,0 +1,28 @@
+name: 'Shi '
+favicon: null
+layout_spectrum: 0.046284350799396634
+typography_spectrum: 0.6853213007561862
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2961547812446952
+  lightness: 0.6392340904567391
+  saturation: 0.23955193487927318
+  rhythmicContrast: 0.22142471792176366
+purpose: []
